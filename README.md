@@ -2,7 +2,7 @@
 - 👀 I’m interested in Financial Datasets, Health Dataset and Dashboards.
 - 🌱 I’m currently learning R and Python. 
 - 💞️ I’m looking to collaborate on a Data Analysis project.
-- 📫 How to reach me LinkedIn: Monica Robinson 
+- 📫 How to reach me LinkedIn:www.linkedin.com/in/monicarob
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a big cat lover and I love cooking. 
 
